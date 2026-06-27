@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Rehan.
 
-<!--
-**rehanx19/rehanx19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring IT professional from India interested in Python, databases and IT systems.
 
-Here are some ideas to get you started:
+Current skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+MySQL
+Git
+SQL
+Problem Solving
+
+Currently learning:
+
+German (B2)
+Data structures
+Advanced Python
