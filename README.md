@@ -14,4 +14,4 @@ Ich suche eine Ausbildung zum Fachinformatiker in Deutschland.
 Python, SQL / MySQL, Git
 
 ## Languages
-English C1, German B1 (exam planned December 2026)****
+English C1, German B1 (exam planned December 2026)
