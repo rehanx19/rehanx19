@@ -1,17 +1,20 @@
-Hi, I'm Rehan.
+# Hi, I'm Rehan 👋
 
-I'm an aspiring IT professional from India interested in Python, databases and IT systems.
+Python and IT enthusiast from India. I'm looking for an IT apprenticeship
+(Fachinformatiker) in Germany, starting in 2027.
+*Ich suche eine Ausbildung zum Fachinformatiker in Deutschland (Start 2027).*
 
-Current skills:
+## Projects
+- **Musikverwaltungssystem** – desktop app with GUI and MySQL database (Python, Tkinter) [link]
+- **FITWCHAT** – calorie calculator using the Mifflin-St Jeor formula (Python) [link]
+- **Employee Management System** – command-line tool with file export (Python) [link]
+- **Library Management System** – borrow, return and search books (Python) [link]
 
-Python
-MySQL
-Git
-SQL
-Problem Solving
+## Skills
+Python (OOP, Tkinter, file handling) · SQL / MySQL · Git & GitHub · Debugging
 
-Currently learning:
+## Languages
+English C1 · German B1 (exam planned December 2026) · Hindi · Urdu
 
-German (B2)
-Data structures
-Advanced Python
+## Currently learning
+Data structures · Advanced Python · German
